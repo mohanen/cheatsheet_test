@@ -56,6 +56,7 @@
 
 ### Horizontal Rule 	
 There is a horizontle rule below
+
 ---
 There is a horizontle rule above
 
