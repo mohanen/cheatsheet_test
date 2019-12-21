@@ -59,8 +59,6 @@
 - Second item
 - Third item
 
-### Horizontal Rule 	
-Here no use since its purpose is to give speration but we already have based on header hierarchy
 
 ## Extended Elements
 
@@ -71,7 +69,6 @@ Here no use since its purpose is to give speration but we already have based on 
 | Paragraph | Text        |
 
 ### Fenced Code Block
-
 ```
 {
   "firstName": "John",
@@ -79,22 +76,13 @@ Here no use since its purpose is to give speration but we already have based on 
   "age": 25
 }
 ```
-### Footnote
-Here's a sentence with a footnote. [^1]
-
-[^1]: This is the footnote.
-
-### Heading ID 	
-### My Great Heading {#custom-id}
-
-### Definition List
-term
-: definition
 
 ### Strikethrough 	
 ~~The world is flat.~~
 
-### Task List 	
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media 
+## Unsupported Elements
+- Heading ID 	
+- Task List 	
+- Horizontal Rule 	
+- Footnote
+- Definition List
