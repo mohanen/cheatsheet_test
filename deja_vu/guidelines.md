@@ -46,8 +46,7 @@
 > blockquote                                                                         |
 
 ### Image
-![Some plane](https://homepages.cae.wisc.edu/~ece533/images/airplane.png)
-![Alt text for image](broken_link)
+![Some plane](https://upload.wikimedia.org/wikipedia/commons/b/bd/Hello_world_c.svg)
 
 ### Ordered List 	
 1. First item
