@@ -24,18 +24,23 @@
 ### Style
 - todo
 
-## Elements
+## Typhography Elements
 
 ### Rules
 - Todo, I dont know how i came this for, lol.
 
-### Typhography Examples
+### Examples
 | Element | Example                          |
 | ------- | -------------------------------- |
 | Bold    | **bold text**                    |
 | Italic  | *italicized text*                |
 | Code    | `code`                           |
 | Link    | [title](https://www.example.com) |
+
+## Other Elements
+
+### Rules
+- Todo,
 
 ### Blockquote 
 > blockquote                                                                         |
@@ -55,8 +60,41 @@
 - Third item
 
 ### Horizontal Rule 	
-There is a horizontle rule below
+Here no use since its purpose is to give speration but we already have based on header hierarchy
 
----
-There is a horizontle rule above
+## Extended Elements
 
+### Table
+| Syntax    | Description |
+| --------- | ----------- |
+| Header    | Title       |
+| Paragraph | Text        |
+
+### Fenced Code Block
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+### Footnote
+Here's a sentence with a footnote. [^1]
+
+[^1]: This is the footnote.
+
+### Heading ID 	
+### My Great Heading {#custom-id}
+
+### Definition List
+term
+: definition
+
+### Strikethrough 	
+~~The world is flat.~~
+
+### Task List 	
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media 
