@@ -1,4 +1,4 @@
-# Déjà Vu - CheatSheet Guidelines
+# CheatSheet Guidelines
 
 ## Headers
 
@@ -8,11 +8,11 @@
 - Content should only come after `h3`
 
 ### Style
-| Header Tag | Heirarchy | Example                         |
-| ---------- | --------- | ------------------------------- |
-| `h1`       | Sections  | Déjà Vu - CheatSheet Guidelines |
-| `h2`       | Cards     | Headers                         |
-| `h3`       | Titles    | Rules, Styles                   |
+| Tag  | Heirarchy | Example               |
+| ---- | --------- | --------------------- |
+| `h1` | Sections  | CheatSheet Guidelines |
+| `h2` | Cards     | Headers               |
+| `h3` | Titles    | Rules, Styles         |
 
 
 ## Table
@@ -30,14 +30,19 @@
 - Todo, I dont know how i came this for, lol.
 
 ### Typhography Examples
-| Element    | Example                                                                              |
-| ---------- | ------------------------------------------------------------------------------------ |
-| Bold       | **bold text**                                                                        |
-| Italic     | *italicized text*                                                                    |
-| Blockquote | > blockquote                                                                         |
-| Code       | `code`                                                                               |
-| Link       | [title](https://www.example.com)                                                     |
-| Image      | ![alt text]([image.jp](https://homepages.cae.wisc.edu/~ece533/images/airplane.png)g) |
+| Element | Example                          |
+| ------- | -------------------------------- |
+| Bold    | **bold text**                    |
+| Italic  | *italicized text*                |
+| Code    | `code`                           |
+| Link    | [title](https://www.example.com) |
+
+### Blockquote 
+> blockquote                                                                         |
+
+### Image
+![Some plane](https://homepages.cae.wisc.edu/~ece533/images/airplane.png)
+![Alt text for image]()
 
 ### Ordered List 	
 1. First item
@@ -50,5 +55,7 @@
 - Third item
 
 ### Horizontal Rule 	
+There is a horizontle rule below
 ---
+There is a horizontle rule above
 
