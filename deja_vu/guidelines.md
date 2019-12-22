@@ -5,14 +5,12 @@
 - **AsciiMath** Supported
 > Not following rules = **Uncharted waters**
 
-## Hierarchy
-
-### Rules
+## Rules
 - Headers should follow their hierarchy `#` > `##` > `###`.
 - Header Hierarchy is followed up to `###`
 - Contents should only come after `##` & `###`
 
-### Style
+## Hierarchy
 | Tag   | Hierarchy | Example            |
 | ----- | --------- | ------------------ |
 | `#`   | Sections  | Writing Cheatsheet |
@@ -47,6 +45,7 @@
 
 ### Image
 ![Some plane](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/HelloWorld.svg/320px-HelloWorld.svg.png)
+> TODO: Handle Images Properly
 
 
 ## Extended Elements
