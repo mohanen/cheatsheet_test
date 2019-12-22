@@ -1,4 +1,4 @@
-# CheatSheet Guidelines
+# Markdown
 
 ## Headers
 
@@ -10,9 +10,9 @@
 ### Style
 | Tag  | Heirarchy | Example               |
 | ---- | --------- | --------------------- |
-| `h1` | Sections  | CheatSheet Guidelines |
-| `h2` | Cards     | Headers               |
-| `h3` | Titles    | Rules, Styles         |
+| `#` | Sections  | CheatSheet Guidelines |
+| `##` | Cards     | Headers               |
+| `###` | Titles    | Rules, Styles         |
 
 
 ## Table
@@ -85,3 +85,10 @@
 - Horizontal Rule 	
 - Footnote
 - Definition List
+
+# Math
+
+## ASCI MATH
+
+### Examples
+`sum_(i=1)^n i^3=((n(n+1))/2)_2^2`
