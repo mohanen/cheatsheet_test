@@ -1,4 +1,5 @@
 # Markdown
+Markdown is the basic syntax for Deja Vu Cheatsheets
 
 ## Headers
 
@@ -8,10 +9,10 @@
 - Content should only come after `h3`
 
 ### Style
-| Tag  | Heirarchy | Example               |
-| ---- | --------- | --------------------- |
-| `#` | Sections  | CheatSheet Guidelines |
-| `##` | Cards     | Headers               |
+| Tag   | Heirarchy | Example               |
+| ----- | --------- | --------------------- |
+| `#`   | Sections  | CheatSheet Guidelines |
+| `##`  | Cards     | Headers               |
 | `###` | Titles    | Rules, Styles         |
 
 
