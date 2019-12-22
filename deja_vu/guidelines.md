@@ -1,36 +1,28 @@
-# Markdown
-Markdown is the basic syntax for Deja Vu Cheatsheets
+# Writing Cheatsheet
 
-## Headers
+## Syntax
+- Basic syntax = **Markdown**
+- **AsciiMath** Supported
+> Not following rules = **Uncharted waters**
+
+## Hierarchy
 
 ### Rules
-- Headers should follow their hierarchy `h1` > `h2` > `h3`.
-- Header Hierarchy is followed upto `h3`
-- Content should only come after `h3`
+- Headers should follow their hierarchy `#` > `##` > `###`.
+- Header Hierarchy is followed up to `###`
+- Contents should only come after `##` & `###`
 
 ### Style
-| Tag   | Heirarchy | Example               |
-| ----- | --------- | --------------------- |
-| `#`   | Sections  | CheatSheet Guidelines |
-| `##`  | Cards     | Headers               |
-| `###` | Titles    | Rules, Styles         |
+| Tag   | Hierarchy | Example            |
+| ----- | --------- | ------------------ |
+| `#`   | Sections  | Writing Cheatsheet |
+| `##`  | Cards     | Hierarchy          |
+| `###` | Titles    | Rules, Styles      |
 
 
-## Table
+# Examples
 
-### Rules
-- Standard Markdown table rules
-- todo
-
-### Style
-- todo
-
-## Typhography Elements
-
-### Rules
-- Todo, I dont know how i came this for, lol.
-
-### Examples
+## Typography
 | Element | Example                          |
 | ------- | -------------------------------- |
 | Bold    | **bold text**                    |
@@ -40,14 +32,8 @@ Markdown is the basic syntax for Deja Vu Cheatsheets
 
 ## Other Elements
 
-### Rules
-- Todo,
-
 ### Blockquote 
 > blockquote                                                                         |
-
-### Image
-![Some plane](https://upload.wikimedia.org/wikipedia/commons/b/bd/Hello_world_c.svg)
 
 ### Ordered List 	
 1. First item
@@ -58,6 +44,9 @@ Markdown is the basic syntax for Deja Vu Cheatsheets
 - First item
 - Second item
 - Third item
+
+### Image
+![Some plane](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/HelloWorld.svg/320px-HelloWorld.svg.png)
 
 
 ## Extended Elements
@@ -87,10 +76,8 @@ Markdown is the basic syntax for Deja Vu Cheatsheets
 - Footnote
 - Definition List
 
-# Math
+## Custom Elements
 
-## ASCI MATH
-
-### Examples
-$sum_(i=1)^n i^3=((n(n+1))/2)_2^2$
+### AsciiMath
+- Supported via Mathjax
 > $sum_(i=1)^n i^3=((n(n+1))/2)_2^2$
