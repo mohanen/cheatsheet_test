@@ -80,3 +80,7 @@
 ### AsciiMath
 - Supported via Mathjax
 > $sum_(i=1)^n i^3=((n(n+1))/2)_2^2$
+`$sum_(i=1)^n i^3=((n(n+1))/2)_2^2$`
+```
+$sum_(i=1)^n i^3=((n(n+1))/2)_2^2$
+```
