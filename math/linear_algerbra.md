@@ -76,7 +76,7 @@ $vec a * vec b = a_1 * b_1 + a_2 * b_2 + .. + a_n * b_n$
 - (projected $||vec a||$) x ($||vec b||$)
 - $vec a * vec b = ||vec a|| cos theta * ||vec b||$
 
-![Projected image](/linear_algebra/dot_product.png)
+![Projected image](https://github.com/mohanen/cheatsheet_test/raw/master/math/linear_algebra/dot_product.png)
 
 ### Commutative
 
@@ -86,7 +86,7 @@ $vec a * vec b = vec b * vec a$
 
 $(vec a + vec b) * vec c = vec a * vec c + vec b* vec c$
 
-![Distributive image](/linear_algebra/dot_product_distributive.png)
+![Distributive image](https://github.com/mohanen/cheatsheet_test/raw/master/math/linear_algebra/dot_product_distributive.png)
 
 ### Associative
 
@@ -112,7 +112,7 @@ $|vec a * vec b| = ||vec a|| * ||vec b|| <=> vec a = c * vec b$
 
 $||vec a + vec b|| <= ||vec a|| + ||vec b||$
 
-![Triangle inequality](/linear_algebra/triangle_inequality.png)
+![Triangle inequality](https://github.com/mohanen/cheatsheet_test/raw/master/math/linear_algebra/triangle_inequality.png)
 
 ## Cross products
 
@@ -121,7 +121,7 @@ $||vec a + vec b|| <= ||vec a|| + ||vec b||$
 - $||vec a ** vec b|| = ||vec a|| * ||vec b|| sin theta$ = area
 - $vec a ** vec b = 0 if vec a = c * vec b$
 
-![Cross Product](/linear_algebra/cross_product.png)
+![Cross Product](https://github.com/mohanen/cheatsheet_test/raw/master/math/linear_algebra/cross_product.png)
 
 ### Cofactor expansion
 
